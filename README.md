@@ -1,2 +1,2 @@
 # LinkedList
-DSA (Theory). All lectures &amp; complete code of topic: LinkedList.
+LinkedList from Scrach in Java
